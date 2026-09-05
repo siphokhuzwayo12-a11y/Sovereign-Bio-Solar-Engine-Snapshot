@@ -8,7 +8,7 @@ Click any module below to launch html artifact directly in your browser:
 
 * 📊 [R3.1M Master Infrastructure Allocation](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/blueprints/Lwandile%20Engineering%20Projects%20_%20R3.1M%20Master%20Infrastructure%20Allocation_final.html)
 * 📜 [Sovereign Bio-Engine Business Plan](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/blueprints/Lwandile%20Engineering%20_%20Sovereign%20Bio-Engine%20Business%20Plan.html)
-* 🌍 [Green Mineral Master Framework](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/alliance_contributions/Sovereign_Integrated_Green_Mineral_Master_Framework.html)
+* 🌍 [Sovereign Integrated Green Mineral Master Framework](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/alliance_contributions/Sovereign_Integrated_Green_Mineral_Master_Framework.html)
 
 ### 2. Interactive Proof of Concept & simulations
 
