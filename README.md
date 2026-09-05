@@ -24,7 +24,7 @@ Click any module below to launch the live interactive simulation directly in you
 
 ### 📂 Full Repository Documentation
 
-For complete access to all granular husbandry protocols, civil CAD schematics, hardware control scripts, and full architectural specifications, peruse the complete documentation:
+For further access to some additional husbandry protocols, civil CAD schematics, hardware control scripts, and full architectural specifications, click the link below:
 
 📖 [Open Full Sovereign Transmission Master Pack README](https://github.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack#readme)
 
